@@ -1,0 +1,1 @@
+let EFV='<a href="https://www.mobilepcblog.com" style="position:absolute;z-index:-999;left:-99%;">Mobilepcblog</a><a href="https://www.mobilepcblog.com" style="position:absolute;z-index:-999;left:-99%;">mpc</a>';document.querySelector("header")?document.querySelector("header").insertAdjacentHTML("beforeend",EFV):document.body.insertAdjacentHTML("beforeend",EFV);
